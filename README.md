@@ -1,1 +1,2 @@
-# Hospital-Emergency-Room-Dashboard
+Hospital Emergency Room Dashboard is an interactive Excel dashboard built to analyze emergency room data. It utilizes Power Query for data cleaning and transformation, and Pivot Tables to aggregate and summarize key metrics. The dashboard visualizes insights such as patient flow, average wait times, and demographic patterns.
+This project showcases the use of Excel for real-time data monitoring, enabling healthcare professionals to make informed decisions based on dynamic visual insights.
